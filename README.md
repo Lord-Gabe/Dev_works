@@ -1,2 +1,3 @@
 # Dev_works
-Contains all of my work based on coding across multiple programming and coding software. A young developer.
+Just a simple country searching app.
+Shows realtime value of rach country's general data like population, currency,etc
